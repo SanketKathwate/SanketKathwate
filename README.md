@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Sanket<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h2 align="left">Hi, I'm Sanket<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2>
 
 
 <h3 align="left">A passionate Computer Engineer</h3>
