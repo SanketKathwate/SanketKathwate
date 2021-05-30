@@ -1,5 +1,6 @@
 <h2 align="left">Hi, I'm Sanket<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2>
-<img align="right" src="Sanket2.png" alt="css3" width="240" height="260"/>
+
+<img align="right" src="Sanket2.png" alt="css3" width="250" height="280"/>
 
 - 👀 A passionate Computer Engineer
 - 🌱 I’m currently learning and working on the Front-End Technologies.
@@ -19,3 +20,4 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
   <img align="left" alt="SanketKathwate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   <img align="left" alt="SanketKathwate | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="SanketKathwate | Email" width="22px" src="https://www.iconsdb.com/icons/preview/black/email-xxl.png" />
