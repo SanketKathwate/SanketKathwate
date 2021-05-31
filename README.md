@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Sanket<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<img align="right" src="Sanket2.png" alt="css3" width="250" height="280"/>
+<img align="right" src="Sanket1.png" width="280" height="250"/>
 
 - 👀 A passionate Computer Engineer
 - 🌱 I’m currently learning and working on the Front-End Technologies.
