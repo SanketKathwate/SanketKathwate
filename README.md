@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Sanket<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align="left">Hi,<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Sanket</h1>
 
 <img align="right" src="Sanket1.png" width="280" height="250"/>
 
